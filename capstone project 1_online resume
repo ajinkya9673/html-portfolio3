@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Resume</title>
+    </hr>
+    </head>
+    <body>
+       <h1>Ajinkya Gurav</h1>
+       <img srcset="./WhatsApp Image 2023-12-31 at 07.52.25_f1505ca4.jpg,./WhatsApp Image 2023-12-31 at 07.52.25_f1505ca4.jpg"
+       sizes="(max-width: 600px) 200px,
+         200px"
+       src="./WhatsApp Image 2023-12-31 at 07.52.25_f1505ca4.jpg" alt="image of a person"/>
+       <h2>Summary</h2>
+       <p>I am a hardworking and dedicated individual and I have don't have much to say about experience as I'm freasher.</p>
+        </hr>
+        <h2>Education</h2>
+        <p>Bachelor of Science in Information Technologies : At University of Mumbai 2020-2023</p>
+        <h2>Work Experience</h2>
+        <p>Freasher</p>
+        </hr>
+        <h2>Skills</h2>
+        <p>Communication</p>
+        <P>Basic computer skill</P>
+    </hr>
+        <h2>Others</h2>
+        <a href="./About me"> About me</a>
+</br>
+        <a href="./my hobbies">My Hobbies</a>
+
+    </body>
+    <footer>
+        <h6>Ajinkya Gurav. All rights reserved</h6>
+    </footer>
+</html>
